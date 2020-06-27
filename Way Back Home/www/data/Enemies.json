@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"actions":[],"battlerHue":0,"battlerName":"monster_01_resized","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[],"gold":0,"name":"Shadow","note":"","params":[100,0,1,1,1,1,1,1]},
+{"id":2,"actions":[],"battlerHue":0,"battlerName":"monster_02_resized","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[],"gold":0,"name":"Shadow","note":"","params":[100,0,1,1,1,1,1,1]},
+{"id":3,"actions":[],"battlerHue":0,"battlerName":"monster_03_resized","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[],"gold":0,"name":"Shadow","note":"","params":[100,0,1,1,1,1,1,1]},
+{"id":4,"actions":[],"battlerHue":0,"battlerName":"boss_resized","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[],"gold":0,"name":"Reaper","note":"","params":[1000,0,1,1,1,1,1,1]},
+{"id":5,"actions":[],"battlerHue":0,"battlerName":"monster_01_resized","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[],"gold":0,"name":"Shadow","note":"","params":[300,0,1,1,1,1,1,1]},
+{"id":6,"actions":[],"battlerHue":0,"battlerName":"monster_02_resized","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[],"gold":0,"name":"Shadow","note":"","params":[300,0,1,1,1,1,1,1]},
+{"id":7,"actions":[],"battlerHue":0,"battlerName":"monster_03_resized","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[],"gold":0,"name":"Shadow","note":"","params":[300,0,1,1,1,1,1,1]}
+]

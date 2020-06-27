@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Blue","characterIndex":0,"characterName":"Blue_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Blue","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":1,"name":"Blue","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Father","characterIndex":0,"characterName":"Father_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Father","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":1,"name":"Father","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Mother","characterIndex":0,"characterName":"Mother_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Mother","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":1,"name":"Mother","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Blue","characterIndex":0,"characterName":"Blue_walk","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Blue","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":1,"name":"Blue's family","nickname":"","note":"","profile":""}
+]
